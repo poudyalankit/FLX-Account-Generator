@@ -1,0 +1,17 @@
+{
+    "name": "FLX-Account-Generator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "axios-cookiejar-support": "^1.0.1",
+        "log-timestamp": "^0.3.0",
+        "path": "^0.12.7",
+        "secure-random-password": "^0.2.2",
+        "tough-cookie": "^4.0.0",
+        "uuid": "^8.3.2"
+    }
+}
